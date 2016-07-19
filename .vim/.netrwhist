@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/dpintoalvesc/Projects/dpintoalvesc-misc/search_engine/deps'
+let g:netrw_dirhist_2='/Users/dpintoalvesc/Projects/dpintoalvesc-misc/search_engine/deps/exprotobuf'
+let g:netrw_dirhist_3='/Users/dpintoalvesc/Projects/dpintoalvesc-misc/search_engine/deps'
+let g:netrw_dirhist_4='/Users/dpintoalvesc/Projects/dpintoalvesc-misc/search_engine/deps/plug/lib/plug/parsers'
+let g:netrw_dirhist_5='/Users/dpintoalvesc/Projects/dpintoalvesc-misc/search_engine/deps/cuttlefish'
+let g:netrw_dirhist_6='/Users/dpintoalvesc/Projects/elixir/search_engine/lib/search_engine'
+let g:netrw_dirhist_7='/Users/dpintoalvesc/Projects/dotfiles/.vim'
